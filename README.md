@@ -1,7 +1,5 @@
 I build, contribute and test. Mostly Web Development. Sometimes more. 🐼 
 
-![TheSimpsonsHomerSimpsonGIF](https://user-images.githubusercontent.com/28187080/199484962-83f25563-2d16-4b19-b061-0c90bb0aad91.gif)
-
   ✔️ Backends ➡️ Python/Node -Flask/Django
   
   ✔️ Frontend ➡️ Javascript/ React/ TypeScript/ Flask-Jinjs2/ HTML / CSS
